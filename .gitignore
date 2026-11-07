@@ -1,6 +1,6 @@
-   __pycache__/
-   *.py[cod]
-   .ipynb_checkpoints/
-   .pytest_cache/
-   .DS_Store
-   .vscode/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+.vscode/

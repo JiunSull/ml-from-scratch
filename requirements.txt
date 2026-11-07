@@ -1,6 +1,6 @@
-   numpy
-   matplotlib
-   ipykernel
-   graphviz
-   scikit-learn
-   pytest
+numpy
+matplotlib
+ipykernel
+graphviz
+scikit-learn
+pytest
