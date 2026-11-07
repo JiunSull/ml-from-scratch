@@ -22,12 +22,13 @@ I'm learning machine learning by implementing the core algorithms myself instead
 
 | # | Project | What it covers | Status |
 |:-:|---|---|:-:|
-| 1 | [**neural-net**](./neural-net) | Scalar autograd engine, backpropagation, MLP from scratch | 🚧 In progress |
-
+| 1 | [**neural-net**](./neural-net) | Scalar autograd engine, backpropagation, MLP from scratch | **Done** |
 
 ## Highlights
 
-*Results will appear here as each project is completed.*
+![Decision boundary learned by my micrograd MLP](assets/micrograd_decision_boundary.png)
+
+A 2 → 16 → 16 → 1 MLP built on my scalar autograd engine, reaching 100% training accuracy on `make_moons`.
 
 ## Getting started
 
