@@ -35,13 +35,12 @@ I'm learning machine learning by implementing the core algorithms myself instead
 git clone https://github.com/JiunSull/ml-from-scratch.git
 cd ml-from-scratch
 pip install -r requirements.txt
-pytest
 ```
 
 ## Principles
 
 - **Typed by hand**
-- **Every implementation is tested against PyTorch or scikit-learn**
+- **Every implementation is checked against PyTorch or scikit-learn**
 
 ## References
 
