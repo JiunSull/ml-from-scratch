@@ -3,4 +3,4 @@ matplotlib
 ipykernel
 graphviz
 scikit-learn
-pytest
+torch
