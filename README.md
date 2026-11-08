@@ -4,7 +4,7 @@
 
 **Core ML algorithms built from first principles, starting with neural networks.**
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-verification-EE4C2C?logo=pytorch&logoColor=white)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
